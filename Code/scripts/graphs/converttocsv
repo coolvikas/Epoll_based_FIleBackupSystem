@@ -1,0 +1,1 @@
+perl -i.bak -lpe 's/\s+/,/g' finalresult.txt
